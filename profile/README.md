@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome To SkyFinder 👋
+🙋‍♀️ This organization was founded by Mathew Borg & Khalid Musse to create a website that will make it easy for users to be able to track their incoming and outgoing flight
+🏘 With the GitHub community, we welcome suggestions via pull requests the community may have for our project
+👩‍💻 AviationStack will be our API for this project https://aviationstack.com/
+🍿 Powered off monster energy drinks
+🌐 Mathew's GitHub: https://github.com/mat4539
+🌐 Khalid's GitHub: https://github.com/khalidm24
+
 
 <!--
 
