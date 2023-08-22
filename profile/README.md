@@ -4,7 +4,7 @@
 - 👩‍💻 AviationStack will be our API for this project https://aviationstack.com/
 - 🍿 Powered off monster energy drinks
 - 🌐 Mathew's GitHub: https://github.com/mat4539
-- 🌐 Khalid's GitHub: https://github.com/kalidm30
+- 🌐 Khalid's GitHub: https://github.com/kalidm730
 
 
 <!--
